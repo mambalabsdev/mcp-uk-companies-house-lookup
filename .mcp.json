@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-uk-companies-house-lookup": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-uk-companies-house-lookup"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
