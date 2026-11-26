@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-uk-companies-house-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for UK Companies House Lookup: UK company, officer, and filing data from the public register.",
   "author": {
     "name": "Mamba Labs"
