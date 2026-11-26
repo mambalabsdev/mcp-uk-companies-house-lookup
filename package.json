@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-uk-companies-house-lookup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for UK Companies House Lookup: UK company, officer, and filing data from the public register.",
   "type": "module",
   "bin": {
